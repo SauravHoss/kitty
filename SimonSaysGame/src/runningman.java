@@ -374,7 +374,7 @@ public class runningman extends Application
         s2.getStylesheets().add("background.css"); // CSS
 
         //ooo cool icon
-        Image applicationIcon = new Image(("icon.jpg")); // ICON
+        Image applicationIcon = new Image(("images.jpg")); // ICON
         
  
         current.getIcons().add(applicationIcon);

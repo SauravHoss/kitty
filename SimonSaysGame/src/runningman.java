@@ -390,5 +390,5 @@ public class runningman extends Application
 		return rando[r.nextInt(rando.length)];
 	}
 	
-	public static String [] rando  = {"Fuck", "Die","Cuck"};
+	public static String [] rando  = {"You got this!", "Great memory!","Wow, you're smart!"};
 }

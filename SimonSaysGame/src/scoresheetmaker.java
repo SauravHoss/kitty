@@ -49,7 +49,6 @@ public class scoresheetmaker
 			
 			for (String word : split)
 			{
-				System.out.println(word);
 				old.add(word);
 			}
 		}

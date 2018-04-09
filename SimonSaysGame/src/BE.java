@@ -36,6 +36,7 @@ public class BE
 				{
 					for (Button button : butts) 
 					{
+						//this part enables and disables buttons making it look like a blink 
 						if (button.getId().equals("b" + current.toString())) 
 						{
 							button.setDisable(false);
